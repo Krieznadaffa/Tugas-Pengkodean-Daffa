@@ -52,3 +52,9 @@ Langkah-Langkah
    
 Grafik Visualisasi Data
 
+![sCATTER pLOT](https://github.com/Krieznadaffa/Tugas-Pengkodean-Daffa/assets/167004660/d03ab901-6551-44fe-ad44-d05f6c64c9b3)
+![Pie Chart](https://github.com/Krieznadaffa/Tugas-Pengkodean-Daffa/assets/167004660/19a0b707-bc85-4d6d-ae48-b73fad9eb97a)
+![Histogram](https://github.com/Krieznadaffa/Tugas-Pengkodean-Daffa/assets/167004660/7854ab38-2a79-48f8-9878-3b7e80e8ef4f)
+![Diagram Venn](https://github.com/Krieznadaffa/Tugas-Pengkodean-Daffa/assets/167004660/915a35ec-6207-4e66-a648-20f628946c1a)
+![Bar Chart](https://github.com/Krieznadaffa/Tugas-Pengkodean-Daffa/assets/167004660/f6b6a710-c136-4446-a7ac-c40037b56e13)
+
