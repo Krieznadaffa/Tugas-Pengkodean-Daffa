@@ -41,10 +41,14 @@ TABEL PERSEDIAAN
 | 10        | 2024-06-10  | 40         |
 
 Langkah-Langkah
-1. Minta Data
-2. Minta Kode
-3. Masukkan Ke Vs Code '
-4. Run kode python
-
+1. Memahami Data: Pertama, pahami struktur data dan atribut-atributnya. Pastikan Anda mengerti apa yang setiap kolom dalam data tersebut representasikan.
+2. Pemeriksaan Data: Periksa apakah ada nilai yang hilang (missing values) dalam data. Jika ada, pertimbangkan bagaimana Anda akan menangani nilai-nilai yang hilang tersebut, apakah dengan mengisi nilai rata-rata, interpolasi, atau metode lainnya.
+3. Statistik Deskriptif: Hitung statistik deskriptif seperti rata-rata, median, kuartil, standar deviasi, dll., untuk setiap variabel (penjualan, produksi, persediaan). Ini akan memberi Anda gambaran umum tentang distribusi data.
+4. Visualisasi Data: Buat visualisasi data seperti histogram, diagram batang, dan scatter plot untuk memahami distribusi dan hubungan antar variabel. Anda dapat menggunakan visualisasi ini untuk menemukan pola atau tren dalam data.
+5. Korelasi: Hitung koefisien korelasi antara variabel-variabel untuk melihat apakah ada hubungan linier antara penjualan, produksi, dan persediaan. Ini dapat dilakukan dengan menggunakan metode korelasi Pearson atau metode korelasi lainnya.
+6. Analisis Regresi: Jika Anda ingin memodelkan hubungan antara variabel-variabel, Anda dapat melakukan analisis regresi. Misalnya, Anda dapat melakukan analisis regresi linier untuk memprediksi penjualan berdasarkan produksi dan persediaan.
+7. Interpretasi Hasil: Terakhir, interpretasikan hasil analisis Anda. Apa insight yang dapat Anda ambil dari data tersebut? Apakah ada hubungan antara variabel-variabel? Bagaimana Anda dapat menggunakan informasi ini untuk pengambilan keputusan lebih lanjut?
+8. Validasi dan Kesimpulan: Terakhir, pastikan untuk memvalidasi hasil analisis Anda dan membuat kesimpulan yang kuat berdasarkan temuan Anda. Juga, pastikan untuk mempertimbangkan keterbatasan dari analisis Anda dan langkah-langkah selanjutnya yang perlu diambil.
+   
 Grafik Visualisasi Data
 
