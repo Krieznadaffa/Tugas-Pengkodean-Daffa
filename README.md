@@ -76,7 +76,6 @@ Hasil Interpretasi
 - Koefisien regresi positif menunjukkan bahwa setiap peningkatan satu unit dalam jumlah produksi diperkirakan akan meningkatkan penjualan sebesar nilai koefisien tersebut.
 - Meskipun model regresi linier memberikan perkiraan hubungan antara produksi dan penjualan, perlu diingat bahwa hubungan antara kedua variabel mungkin lebih kompleks dan dipengaruhi oleh faktor-faktor lain yang tidak ditangkap oleh model ini.
 
-Grafik
 ![analisis regresi 1](https://github.com/Krieznadaffa/Tugas-Pengkodean-Daffa/assets/167004660/e2499de4-7dc8-4165-bb0c-9abe717455e4)
 
 **ANALISIS REGRESI 2**
@@ -95,7 +94,6 @@ Interpretasi:
 - Koefisien regresi positif menunjukkan bahwa dengan bertambahnya tanggal produksi, jumlah produksi cenderung meningkat. Ini mungkin disebabkan oleh peningkatan permintaan atau efisiensi proses produksi seiring berjalannya waktu.
 - Model regresi linier memberikan perkiraan jumlah produksi berdasarkan tanggal produksi. Namun, perlu diingat bahwa faktor-faktor lain seperti musim atau perubahan tren pasar mungkin juga memengaruhi jumlah produksi dan perlu dipertimbangkan dalam pengambilan keputusan.
 
-Grafik
 ![Analisis Regresi 2](https://github.com/Krieznadaffa/Tugas-Pengkodean-Daffa/assets/167004660/6dc5b358-c39b-41d3-9221-9c0189733677)
 
 **ANALISIS SKEWNESS**
@@ -113,7 +111,6 @@ Interpretasi:
 - Dalam konteks ini, skewness yang positif untuk variabel produksi, longitude, dan latitude menunjukkan bahwa sebagian besar observasi memiliki nilai di bawah rata-rata, dengan sedikit observasi yang memiliki nilai yang jauh di atas rata-rata.
 - Ini dapat menjadi informasi yang berguna dalam pemodelan statistik atau dalam pengambilan keputusan bisnis, terutama jika ada kebutuhan untuk memahami distribusi data secara lebih rinci.
 
-Grafik
 ![Analisis Skewness](https://github.com/Krieznadaffa/Tugas-Pengkodean-Daffa/assets/167004660/73521d89-28bf-4fbd-8906-c2d2e284dbcc)
 
 **ANALISIS HEATMAP**
@@ -127,5 +124,4 @@ Interpretasi:
 - Korelasi yang tinggi antara produksi dengan longitude dan latitude menunjukkan bahwa terdapat hubungan yang kuat antara lokasi geografis (longitude dan latitude) dengan jumlah produksi. Hal ini mungkin disebabkan oleh adanya faktor-faktor lingkungan atau geografis tertentu yang mempengaruhi proses produksi atau distribusi produk.
 - Korelasi ini dapat menjadi indikasi penting dalam pengambilan keputusan, misalnya dalam perencanaan lokasi pabrik atau gudang, atau dalam analisis faktor-faktor yang memengaruhi efisiensi produksi. Namun, penting untuk diingat bahwa korelasi tidak menyiratkan kausalitas, dan faktor-faktor lain yang tidak ditangkap dalam analisis ini juga dapat memengaruhi produksi.
 
-Grafik
 ![Analisis Heat Map](https://github.com/Krieznadaffa/Tugas-Pengkodean-Daffa/assets/167004660/246761f9-a08d-4a57-83d7-65cd1f584a5d)
